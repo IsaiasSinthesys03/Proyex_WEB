@@ -3,6 +3,17 @@
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?logo=vite)
 
+## 📸 Evidencia Visual
+<div align="center">
+  <img src="assets/screens/proyex_web1.jpeg" width="30%" />
+  <img src="assets/screens/proyex_web2.jpeg" width="30%" />
+  <img src="assets/screens/proyex_web3.jpeg" width="30%" />
+  <br/><br/>
+  <img src="assets/screens/proyex_web4.jpeg" width="30%" />
+  <img src="assets/screens/proyex_web5.jpeg" width="30%" />
+  <img src="assets/screens/proyex_web6.jpeg" width="30%" />
+</div>
+
 ## 📖 Descripción Breve
 PX Forge es el panel administrativo ("El Núcleo") que actúa como la central de control para gestionar, orquestar y monitorear proyectos, ferias tecnológicas y stands. Permite la administración total de exhibiciones técnicas funcionales, facilitando el trabajo de los organizadores para que los proyectos brillen de forma profesional.
 
